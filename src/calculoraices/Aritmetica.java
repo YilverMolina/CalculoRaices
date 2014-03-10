@@ -20,12 +20,7 @@ public class Aritmetica {
     public Aritmetica() {
     }
 
-    String Detectar_Incognitas(String ecuacion) {
-        for (int i = 0; i < 10; i++) {
-
-        }
-        return null;
-    }
+ 
 
     String[] Detectar_Letras_toArray(String ecuacion) {
         return Detectar_Letras(ecuacion).split(separador);
